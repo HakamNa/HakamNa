@@ -7,3 +7,9 @@
 </p>
 
 ## Glad to see you here! &nbsp;
+
+As a software engineering student with a passion for developing innovative solutions, I have gained experience in a variety of programming languages, . I have honed my skills in software development, database design, data structures, and algorithm analysis through coursework and internships. With the ability to quickly learn new technologies, I am constantly seeking to improve my understanding of emerging technologies and industry trends.
+
+Along with my technical skills, I possess excellent communication and social skills, as well as leadership experience through leading and volunteering in school projects. Fluent in Arabic, English, and Hebrew.
+
+I am excited to bring my knowledge and enthusiasm to a dynamic team that values collaboration, creativity, and innovation in solving complex problems.
