@@ -24,17 +24,17 @@ I am excited to bring my knowledge and enthusiasm to a dynamic team that values 
 - 💻 Strong grasp of data structures and algorithms.
 - 🔍 Analytical thinker.
 - 📊 Experienced with data analysis tools.
-- 🌐 Always expanding knowledge in: 
+- 🌐 currently learning: 
   - GIS
   - DevOps
-  - Machine Learning
+  - Machine Learning 
   - Image Processing
   - AWS DBMS
-  - Flutter.
+  - Flutter 
 - 🤝 Provided academic Tutor in math, physics, programming.
 - 👥 Leadership: Team leader, managing projects, market studies, and presenting scientific articles.
 - 💪 This is where I write, code and solve problems:
-- 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.leetcode.com/nabulssihakam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nabulssihakam" height="30" width="40" /></a>
 &nbsp;
