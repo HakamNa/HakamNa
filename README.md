@@ -1,11 +1,11 @@
+# Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<h1 align="center">Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<p align="left">
 <a href="https://linkedin.com/in/hakamnabulssi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakamnabulssi" height="30" width="40" /></a>
 &nbsp;
 <a href="https://instagram.com/nabulssi_hakam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabulssi_hakam" height="30" width="40" /></a>
 &nbsp;
-</p>
+
+
 
 ## Glad to see you here! &nbsp;
 
@@ -16,6 +16,7 @@ Along with my technical skills, I possess excellent communication and social ski
 I am excited to bring my knowledge and enthusiasm to a dynamic team that values collaboration, creativity, and innovation in solving complex problems.
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 
 ### Talking about Personal Stuffs:
 
@@ -29,9 +30,7 @@ I am excited to bring my knowledge and enthusiasm to a dynamic team that values 
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.leetcode.com/nabulssihakam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nabulssihakam" height="30" width="40" /></a>
 &nbsp;
-<a href="https://github.com/HakamNa" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HakamNa" height="30" width="40" /></a>
+<a href="https://github.com/HakamNa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HakamNa" height="30" width="40" /></a>
 &nbsp;
