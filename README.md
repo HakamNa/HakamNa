@@ -101,8 +101,7 @@ I am excited to bring my knowledge and enthusiasm to a dynamic team that values 
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img alt="HakamNa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=HakamNa&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/>
-  </a>
-  [![Top Languages](https://img.shields.io/github/languages/top/HakamNa/HakamNa?color=61dafb&style=plastic)](https://github.com/HakamNa/HakamNa)
+    </a>
   <br/>
   ⚡ I'm a <b>Polyglot programmer</b> in diverse languages
   <br/>
