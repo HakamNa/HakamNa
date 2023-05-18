@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Hakam 
 #### I am Software Engineering Student 
-![I am Software Engineering Student ](https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=1024x1024&w=is&k=20&c=d3Lw_nR7eiX3vaTigys7N3VIjfL0EesU-tN1vwaOvHQ=)
+![I am Software Engineering Student ](https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif)
 
 As a software engineering student with a passion for developing innovative solutions, I have gained experience in a variety of programming languages, . I have honed my skills in software development, database design, data structures, and algorithm analysis through coursework and internships. With the ability to quickly learn new technologies, I am constantly seeking to improve my understanding of emerging technologies and industry trends.
 
