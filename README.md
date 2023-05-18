@@ -97,7 +97,7 @@ I am excited to bring my knowledge and enthusiasm to a dynamic team that values 
 </p>
 
 <details>
-  <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak, and 😸 Most Used Languages</summary>
+  <summary>&nbsp;&nbsp;<b>😺 My Github stats & 😻 Current Streak</summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img alt="HakamNa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=HakamNa&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/>
@@ -107,7 +107,7 @@ I am excited to bring my knowledge and enthusiasm to a dynamic team that values 
   <br/>
   ⚠ <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
 
-  <p align=center>
+  <p>
     <a href="https://git.io/streak-stats" title="Go to Source">
       <img alt="HakamNa's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HakamNa&theme=react&border=61dafb" height="192px"/>
     </a>
