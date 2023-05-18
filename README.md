@@ -97,21 +97,21 @@ I am excited to bring my knowledge and enthusiasm to a dynamic team that values 
 </p>
 
 <details>
-  <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
+  <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak, and 😸 Most Used Languages</summary>
   <br/>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="HakamNa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=HakamNa&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="HakamNa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakamNa&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img alt="HakamNa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=HakamNa&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/>
+  </a>
+  [![Top Languages](https://img.shields.io/github/languages/top/HakamNa/HakamNa?color=61dafb&style=plastic)](https://github.com/HakamNa/HakamNa)
   <br/>
   ⚡ I'm a <b>Polyglot programmer</b> in diverse languages
   <br/>
   ⚠ <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
 
-<p align=center>
-  <a href="https://git.io/streak-stats" title="Go to Source">
-    <img alt="HakamNa's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HakamNa&theme=react&border=61dafb" height="192px"/>
-  </a>
-</p>
-<br />
-
+  <p align=center>
+    <a href="https://git.io/streak-stats" title="Go to Source">
+      <img alt="HakamNa's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HakamNa&theme=react&border=61dafb" height="192px"/>
+    </a>
+  </p>
+  <br />
 </details>
-
