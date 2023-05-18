@@ -96,21 +96,8 @@ I am excited to bring my knowledge and enthusiasm to a dynamic team that values 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 </p>
 
-<details>
-  <summary>&nbsp;&nbsp;<b>😺 My Github stats & 😻 Current Streak</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img alt="HakamNa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=HakamNa&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/>
-    </a>
-  <br/>
-  ⚡ I'm a <b>Polyglot programmer</b> in diverse languages
-  <br/>
-  ⚠ <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
-
-  <p>
-    <a href="https://git.io/streak-stats" title="Go to Source">
-      <img alt="HakamNa's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HakamNa&theme=react&border=61dafb" height="192px"/>
-    </a>
-  </p>
-  <br />
+## 😺 My Github stats     
+<p align = "center">
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"> <img alt="HakamNa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=HakamNa&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/> </a>
+</p>
 </details>
