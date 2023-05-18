@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome to <span style="font-weight: bold;">Hakam Nabulssi's</span> profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="left">
 <a href="https://linkedin.com/in/hakamnabulssi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakamnabulssi" height="30" width="40" /></a>
 <a href="https://instagram.com/nabulssi_hakam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabulssi_hakam" height="30" width="40" /></a>
@@ -13,3 +13,11 @@ As a software engineering student with a passion for developing innovative solut
 Along with my technical skills, I possess excellent communication and social skills, as well as leadership experience through leading and volunteering in school projects. Fluent in Arabic, English, and Hebrew.
 
 I am excited to bring my knowledge and enthusiasm to a dynamic team that values collaboration, creativity, and innovation in solving complex problems.
+
+### Talking about Personal Stuffs:
+
+- 🎓 Currently pursuing my B.Sc. in Software Engineering at Azrieli Academic College of Engineering, Jerusalem.
+- 💻 Skilled in Python, C++, and Java, with a strong grasp of data structures and algorithms.
+- 🔍 Always eager to solve problems and apply my analytical thinking to build efficient software solutions.
+- 📊 Familiar with data analysis tools and libraries like Pandas, Numpy, and Scikit-Learn.
+- 🌐 Constantly expanding my knowledge in GIS, DevOps, Machine Learning, Image Processing, AWS DBMS, and Flutter.
