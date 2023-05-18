@@ -1,4 +1,4 @@
-# Welcome to **Hakam's** profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+# Welcome to <b>my</b> profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <a href="https://linkedin.com/in/hakamnabulssi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakamnabulssi" height="30" width="40" /></a>
 &nbsp;
@@ -8,13 +8,13 @@
 
 
 ## Glad to see you here! &nbsp;
-
-As a software engineering student with a passion for developing innovative solutions, I have gained experience in a variety of programming languages, . I have honed my skills in software development, database design, data structures, and algorithm analysis through coursework and internships. With the ability to quickly learn new technologies, I am constantly seeking to improve my understanding of emerging technologies and industry trends.
-
-Along with my technical skills, I possess excellent communication and social skills, as well as leadership experience through leading and volunteering in school projects. Fluent in Arabic, English, and Hebrew.
-
-I am excited to bring my knowledge and enthusiasm to a dynamic team that values collaboration, creativity, and innovation in solving complex problems.
-
+<p>
+I'm <b>Hakam Nabulssi</b>, a passionate software engineering student on a quest to create amazing things with code. I love solving puzzles, building software solutions, and exploring new technologies. Currently pursuing my degree in Software Engineering, I believe in clean code, strong architecture, and continuous improvement.
+</p>
+<p>
+I enjoy exploring technology, attending hackathons, and participating in coding competitions. Collaboration and teamwork are important to me, and I value diverse perspectives and open communication. Check out my GitHub for my projects and contributions.
+</p>  
+<p><b>Let's make magic happen with code!</b></p>
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 
@@ -53,6 +53,8 @@ I am excited to bring my knowledge and enthusiasm to a dynamic team that values 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/3b/30/e43b30464e7f8dfd8af62ab84909f436.png" />
 
 ### DevOps 🐳 
 <p align="left"> 
@@ -96,7 +98,8 @@ I am excited to bring my knowledge and enthusiasm to a dynamic team that values 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 </p>
 
-## 😺 My Github stats     
+<details>
+<summary><h2>😺 My Github stats</h2></summary>   
 <p align = "center">
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"> <img alt="HakamNa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=HakamNa&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/> </a>
 </p>
