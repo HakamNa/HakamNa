@@ -20,15 +20,21 @@ I am excited to bring my knowledge and enthusiasm to a dynamic team that values 
 
 ### Talking about Personal Stuffs:
 
-- 🎓 Currently pursuing my B.Sc. in Software Engineering at Azrieli Academic College of Engineering, Jerusalem.
+- 🎓 Currently pursuing B.Sc. in Software Engineering.
 - 💻 Strong grasp of data structures and algorithms.
-- 🔍 Always eager to solve problems and apply my analytical thinking to build efficient software solutions.
-- 📊 Familiar with data analysis tools and libraries like Pandas, Numpy, and Scikit-Learn.
-- 🌐 Constantly expanding my knowledge in GIS, DevOps, Machine Learning, Image Processing, AWS DBMS, and Flutter.
-- 🤝 Tutoring: Provided academic support as a tutor for college students in subjects like math, physics, and programming. Also tutored high school students in Java and Data Structures.
-- 👥 Leadership: Currently serving as a team leader, managing projects, conducting market studies, and presenting scientific articles.
+- 🔍 Analytical thinker.
+- 📊 Experienced with data analysis tools.
+- 🌐 Always expanding knowledge in: 
+  - GIS
+  - DevOps
+  - Machine Learning
+  - Image Processing
+  - AWS DBMS
+  - Flutter.
+- 🤝 Provided academic Tutor in math, physics, programming.
+- 👥 Leadership: Team leader, managing projects, market studies, and presenting scientific articles.
 - 💪 This is where I write, code and solve problems:
-
+- 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.leetcode.com/nabulssihakam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nabulssihakam" height="30" width="40" /></a>
 &nbsp;
